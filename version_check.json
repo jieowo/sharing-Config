@@ -1,5 +1,6 @@
 {
-  "minimum_required_version": "1.0.1", 
+  "minimum_required_version": "1.0.0", 
   "status": "active",
-  "message": "🚨 偵測到版本過舊。請立即下載最新版本 v1.0.1！"
+  "message": "程式正常執行！"
 }
+
