@@ -1,1 +1,13 @@
-
+{
+  "allowed_users": [
+    {
+      "id": "d05b57132351a853921a2aa6e50eb04d72ae3d9d634875b23375245e19e88365",
+      "remark": "jie"
+    },
+    {
+      "id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+      "remark": "User B - 測試機"
+    }
+  ],
+  "note": "清單。"
+}
